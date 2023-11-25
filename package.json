@@ -1,0 +1,29 @@
+{
+  "name": "maintenance-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot startup when I'm doing Bouns'Bot maintenance, this lets members know why Bouns'Bot is unavailable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienBounoir/Maintenance-Discord-Bot.git"
+  },
+  "keywords": [
+    "discordbot",
+    "bounsbot",
+    "discordjs",
+    "discord"
+  ],
+  "author": "Fabien Bouns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabienBounoir/Maintenance-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/FabienBounoir/Maintenance-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
