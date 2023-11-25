@@ -20,15 +20,15 @@ Install project with npm
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`BOT_TOKEN`
+`API_KEY`
 
-`PREFIX`
+`ANOTHER_API_KEY`
 
-`MAINTENANCE_MESSAGE`
 
-`SUPPORT_SERVER`
+## Screenshots
 
-`DEFAULT_LANGUAGE`
+![Demo message](https://github.com/FabienBounoir/Maintenance-Discord-Bot/blob/main/screenshot/demo.png?raw=true)
+
 
 ## Authors
 
